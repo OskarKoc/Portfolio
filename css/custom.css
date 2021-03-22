@@ -12,36 +12,36 @@
 }
 
 #intro {
-  background-image: url("/img/landing.jpg");
+  background-image: url("//img/landing.jpg");
   box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
 }
 #about {
-  background-image: url("/img/bg.png");
+  background-image: url("//img/bg.png");
   box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
 }
 #services {
-  background-image: url("/img/bg.png");
+  background-image: url("//img/bg.png");
   background-color: #0F1B26;
   box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
 }
 #portfolio {
-  background-image: url("/img/bg.png");
+  background-image: url("//img/bg.png");
   color: #0f1b26;
   box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
 }
 #portfolio {
-  background-image: url("/img/bg.png");
+  background-image: url("//img/bg.png");
   color: #0f1b26;
   box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
 }
 #contact {
-  background-image: url("/img/bg.png");
+  background-image: url("//img/bg.png");
   background-color: #0F1B26;
   box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
   
 }
 footer{
-  background-image: url("/img/footer.jpg");
+  background-image: url("//img/footer.jpg");
   
 }
 *,
